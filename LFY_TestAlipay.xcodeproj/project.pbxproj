@@ -207,6 +207,7 @@
 				TargetAttributes = {
 					18146A9E1E82A8D700C7D371 = {
 						CreatedOnToolsVersion = 8.2.1;
+						DevelopmentTeam = 9N6P88TN8F;
 						ProvisioningStyle = Automatic;
 					};
 					18146AB71E82A8D700C7D371 = {
@@ -422,6 +423,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 9N6P88TN8F;
 				INFOPLIST_FILE = LFY_TestAlipay/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.cooper.dtag.LFY-TestAlipay";
@@ -433,6 +435,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 9N6P88TN8F;
 				INFOPLIST_FILE = LFY_TestAlipay/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.cooper.dtag.LFY-TestAlipay";
